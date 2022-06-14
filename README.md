@@ -1,5 +1,6 @@
 # Node JS with MongoDB and Express
 ![GitHub repo size](https://img.shields.io/github/repo-size/NeoFreya/Api_Node?logo=Node.JS&logoColor=%23FFFF)
+![GitHub last commit](https://img.shields.io/github/last-commit/NeoFreya/Api_Node?logo=macOS&logoColor=%23ffff)
 
 Project Ini menggunakaN Node
 
