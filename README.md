@@ -1,4 +1,5 @@
 # Node JS with MongoDB and Express
+![GitHub repo size](https://img.shields.io/github/repo-size/NeoFreya/Api_Node?logo=Node.JS&logoColor=%23FFFF)
 
 Project Ini menggunakaN Node
 
@@ -12,4 +13,3 @@ Project Ini menggunakaN Node
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=TlB_eWDSMt4'>Node.js Tutorial for Beginners</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://www.codecademy.com/learn/introduction-to-javascript'>Codecademy - Learn JavaScript</BadgeLink>
 
-https://img.shields.io/github/repo-size/NeoFreya/Api_Node
