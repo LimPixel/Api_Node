@@ -2,12 +2,8 @@ const express = require('express');
 const app = express();
 const router = express.Router();
 
-router.use("/api", (req,res,next) => {
-    res.json({ status: 200, message:'Get All data'})
-    next();
-})
-
-app.use("/", router);
+const routesBlog = require('./asset /routes/routes')
+app.use("/api", routesBlog);
 
 //  Server 
 const ROUTE = 1050
