@@ -12,4 +12,4 @@ Project Ini menggunakaN Node
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=TlB_eWDSMt4'>Node.js Tutorial for Beginners</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://www.codecademy.com/learn/introduction-to-javascript'>Codecademy - Learn JavaScript</BadgeLink>
 
-/visual-studio-app-center/releases/size/:owner/:app/:token 
+https://img.shields.io/github/repo-size/NeoFreya/Api_Node
