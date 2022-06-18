@@ -1,8 +1,8 @@
-# Node JS with MongoDB and Express
+# Node JS with MongoDB Atlas and Express
 ![GitHub repo size](https://img.shields.io/github/repo-size/NeoFreya/Api_Node?logo=Node.JS&logoColor=%23FFFF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NeoFreya/Api_Node?logo=macOS&logoColor=%23ffff)
 
-Project Ini menggunakaN Node
+Project Ini menggunakaN Node JS dan Untuk Database menggunakan MongoDB Atlas
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 
